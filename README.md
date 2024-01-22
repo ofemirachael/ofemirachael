@@ -7,4 +7,3 @@
 - 👯 I’m looking to collaborate on any Enterprise application development and design process
 - 💬 Ask me about Data structure and algorithm, I am really hoping to solidify my knowledge on this topic
 - 📫 How to reach me: LinkedIn -- <a href="https://www.linkedin.com/in/oluwafemi-olayode/">https://www.linkedin.com/in/oluwafemi-olayode/</a>
-- ⚡ Fun fact: I can be who you want me to be :wink:
